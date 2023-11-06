@@ -135,4 +135,63 @@ nav li {
   color: #757575;
   font-size: 16px;
   line-height: 28px;
+  margin-top: 20px;
+}
+.resume {
+  margin: 0 230px 0 230px;
+}
+.experience-container {
+  display: flex;
+  gap: 25px;
+}
+.experience-type {
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 130px;
+}
+.experience-title {
+  color: #474747;
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+.institute-name {
+  color: #757575;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 20px;
+}
+hr {
+  background: #d1d1d1;
+  height: 1px;
+}
+.cv-button button {
+  color: #fff;
+  background-color: #fd6e0a;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 18px 36px;
+  border-style: none;
+  border-radius: 5px;
+  margin-left: 690px;
+  margin-top: 50px;
+}
+.contact {
+  display: flex;
+  background: #fff8f3;
+  margin-top: 130px;
+}
+.contact div {
+  width: 50%;
+  margin: 0 230px 0 230px;
+}
+.social-icon {
+  gap: 20px;
+}
+.contact-form {
+}
+.input {
+  background: #fff;
+  width: 100%;
 }
